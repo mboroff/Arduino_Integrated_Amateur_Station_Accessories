@@ -85,7 +85,7 @@ Adafruit_HX8357 tft = Adafruit_HX8357(TFT_CS, TFT_DC, TFT_RST);
 #define PS2DATAPIN      22
 #define PS2KEYERPIN     27
 #define TONEPIN         26      // Used if you want audio via a small buzzer
-#define PS2_EXCLAMATION	33 // ¡
+#define PS2_EXCLAMATION	33 // 
 #define LCDROWS     4
 #define LCDCOLUMNS  20
 
